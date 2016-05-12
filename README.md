@@ -3,5 +3,5 @@
 It's Multi spaces and Kanban's on premise solution for your teams or projects on one box.
 (ala Jira)
 
-Current project stege: Research and Poc
+### Current project stage: Research and Poc
 
